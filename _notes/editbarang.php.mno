@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editbarang" value="name:id;datatype:int,name:id_barang;datatype:int,name:id_toko;datatype:int,name:harga;datatype:int,name:banyak;datatype:int" />
+</info>

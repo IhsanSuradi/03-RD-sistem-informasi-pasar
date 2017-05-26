@@ -1,3 +1,9 @@
+<?php
+
+	include "koneksi.php";
+	include "init_session.php";
+
+?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -38,11 +44,19 @@
             <div class="overlay">
                 <div class="container">
                     <div class="col-md-10 col-md-offset-1 text-center">
-
+					<div class="head-btn wow fadeInLeft">
+                                  <p>&nbsp;</p>
+								  <div align="left"><a href="index.php" class="btn-default"><<< HOME</a>
+                                    
+                                  </div>
+							</div>
                         <!-- /.logo -->
                         <div class="logo wow fadeInDown"> <a href=""><img src="images/logo.png" alt="logo" width="320" height="259"></a> 
-                              <form action="" method="get"><input type="text" size="80" placeholder="Cari Disini ..."><input type="button" value="CARI">
-						  </form></div>
+							<form action="infobarang.php" method="get">
+								<input type="text" name="q" size="80" placeholder="Cari Disini ...">
+								<input type="button" value="CARI">
+							</form>
+						</div>
 
                         <!-- /.main title -->
                         <h2 class="wow fadeInUp" style="margin-bottom: 50px">
@@ -67,7 +81,8 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
+                        <?php include "find_query.php"; ?>
+						<!--<tr>
                             <td>Cabe</td>
                             <td>Toko Damai Indah </td>
                             <td class="text-center"><strong>2 Kg </strong></td>
@@ -132,15 +147,12 @@
                           <td class="text-center">TOTAL :  </td>
                           <td class="text-center">Rp. 40.000,- </td>
                           <td class="active"><input type="submit" name="Submit2" value="BUKA" align="right"></td>
-                        </tr>
+                        </tr>-->
                     </tbody>
               </table>
+			  <p align="center"><a href="keranjang.php" class="btn-default">Keranjang</a> </p>
             </div>
-            <form align="center" name="form1" method="post" action="">
-              <label>
-                <input  type="submit" name="Submit" value="Keranjang">
-              </label>
-            </form>
+            
         </div>
 
         
