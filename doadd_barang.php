@@ -14,7 +14,7 @@
 	}
 	else {
 		// barang belum ada!
-		$add_barang_result = mysqli_query($dbconn, "INSERT INTO barang (id_barang, id_kat, nama, deskripsi) VALUES (DEFAULT, 1, '$nama_barang', '');");
+		$add_barang_result = mysqli_query($dbconn, "INSERT INTO barang (id_barang, nama, deskripsi) VALUES (DEFAULT, '$nama_barang', '');");
 		$id_barang = mysqli_insert_id($dbconn);
 	}
 
