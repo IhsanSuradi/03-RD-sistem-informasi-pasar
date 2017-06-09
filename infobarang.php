@@ -145,7 +145,11 @@
                           <td>&nbsp;</td>
                           <td>&nbsp;</td>
                           <td class="text-center">TOTAL :  </td>
+<<<<<<< HEAD
                           <td class="text-center">Rp. 80.000,- </td>
+=======
+                          <td class="text-center">Rp. 40.000,- </td>
+>>>>>>> faris
                           <td class="active"><input type="submit" name="Submit2" value="BUKA" align="right"></td>
                         </tr>-->
                     </tbody>
@@ -181,4 +185,8 @@
                             new WOW().init();
         </script>
     </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> faris

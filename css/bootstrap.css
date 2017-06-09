@@ -25,6 +25,7 @@ main,
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 menu,
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -34,6 +35,9 @@ menu,
 =======
 menu,
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+menu,
+>>>>>>> faris
 nav,
 section,
 summary {
@@ -58,6 +62,7 @@ a {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: transparent;
 =======
   background-color: transparent;
@@ -68,6 +73,9 @@ a {
 =======
   background-color: transparent;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  background-color: transparent;
+>>>>>>> faris
 }
 a:active,
 a:hover {
@@ -121,6 +129,7 @@ hr {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   -moz-box-sizing: content-box;
        box-sizing: content-box;
 =======
@@ -138,6 +147,11 @@ hr {
      -moz-box-sizing: content-box;
           box-sizing: content-box;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+>>>>>>> faris
 }
 pre {
   overflow: auto;
@@ -189,6 +203,7 @@ input[type="radio"] {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   box-sizing: border-box;
 =======
   -webkit-box-sizing: border-box;
@@ -205,6 +220,11 @@ input[type="radio"] {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+>>>>>>> faris
   padding: 0;
 }
 input[type="number"]::-webkit-inner-spin-button,
@@ -247,6 +267,7 @@ th {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 >>>>>>> imelda23
@@ -262,6 +283,8 @@ th {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
@@ -273,6 +296,7 @@ th {
     -webkit-box-shadow: none !important;
             box-shadow: none !important;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
     -webkit-box-shadow: none !important;
@@ -280,6 +304,8 @@ th {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   }
   a,
   a:visited {
@@ -291,6 +317,7 @@ th {
   abbr[title]:after {
     content: " (" attr(title) ")";
   }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -308,6 +335,10 @@ th {
   a[href^="#"]:after,
   a[href^="javascript:"]:after {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  a[href^="#"]:after,
+  a[href^="javascript:"]:after {
+>>>>>>> faris
     content: "";
   }
   pre,
@@ -345,6 +376,7 @@ th {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   .table td,
   .table th {
     background-color: #fff !important;
@@ -355,6 +387,8 @@ th {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   .btn > .caret,
   .dropup > .btn > .caret {
     border-top-color: #000 !important;
@@ -368,15 +402,19 @@ th {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   .table td,
   .table th {
     background-color: #fff !important;
   }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -384,10 +422,13 @@ th {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   .table-bordered th,
   .table-bordered td {
     border: 1px solid #ddd !important;
   }
+<<<<<<< HEAD
 <<<<<<< HEAD
 }
 <<<<<<< HEAD
@@ -403,12 +444,18 @@ th {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 =======
+=======
+}
+>>>>>>> faris
 @font-face {
   font-family: 'Glyphicons Halflings';
 
   src: url('../fonts/glyphicons-halflings-regular.eot');
   src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+<<<<<<< HEAD
 >>>>>>> imelda23
+=======
+>>>>>>> faris
 }
 .glyphicon {
   position: relative;
@@ -3302,6 +3349,7 @@ tbody.collapse.in {
   display: table-row-group;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 .glyphicon-tree-deciduous:before {
   content: "\e200";
 =======
@@ -3314,6 +3362,8 @@ tbody.collapse.in {
   src: url('../fonts/glyphicons-halflings-regular.eot');
   src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 =======
+=======
+>>>>>>> faris
 .collapsing {
   position: relative;
   height: 0;
@@ -3327,6 +3377,7 @@ tbody.collapse.in {
   -webkit-transition-property: height, visibility;
        -o-transition-property: height, visibility;
           transition-property: height, visibility;
+<<<<<<< HEAD
 >>>>>>> imelda23
 }
 .glyphicon {
@@ -3352,6 +3403,25 @@ tbody.collapse.in {
 .glyphicon-eur:before {
   content: "\20ac";
 =======
+=======
+}
+.caret {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 2px;
+  vertical-align: middle;
+  border-top: 4px solid;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+}
+.dropdown {
+  position: relative;
+}
+.dropdown-toggle:focus {
+  outline: 0;
+}
+>>>>>>> faris
 .dropdown-menu {
   position: absolute;
   top: 100%;
@@ -3373,6 +3443,7 @@ tbody.collapse.in {
   border-radius: 4px;
   -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
           box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+<<<<<<< HEAD
 >>>>>>> imelda23
 }
 .glyphicon-minus:before {
@@ -3385,6 +3456,19 @@ tbody.collapse.in {
 .glyphicon-envelope:before {
   content: "\2709";
 =======
+=======
+}
+.dropdown-menu.pull-right {
+  right: 0;
+  left: auto;
+}
+.dropdown-menu .divider {
+  height: 1px;
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #e5e5e5;
+}
+>>>>>>> faris
 .dropdown-menu > li > a {
   display: block;
   padding: 3px 20px;
@@ -3393,6 +3477,7 @@ tbody.collapse.in {
   line-height: 1.42857143;
   color: #333;
   white-space: nowrap;
+<<<<<<< HEAD
 >>>>>>> imelda23
 }
 .glyphicon-pencil:before {
@@ -3405,6 +3490,15 @@ tbody.collapse.in {
 .glyphicon-music:before {
   content: "\e002";
 =======
+=======
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: #262626;
+  text-decoration: none;
+  background-color: #f5f5f5;
+}
+>>>>>>> faris
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
 .dropdown-menu > .active > a:focus {
@@ -3417,6 +3511,7 @@ tbody.collapse.in {
 .dropdown-menu > .disabled > a:hover,
 .dropdown-menu > .disabled > a:focus {
   color: #777;
+<<<<<<< HEAD
 >>>>>>> imelda23
 }
 .glyphicon-search:before {
@@ -3438,6 +3533,31 @@ tbody.collapse.in {
 .glyphicon-film:before {
   content: "\e009";
 =======
+=======
+}
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+  text-decoration: none;
+  cursor: not-allowed;
+  background-color: transparent;
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+.open > .dropdown-menu {
+  display: block;
+}
+.open > a {
+  outline: 0;
+}
+.dropdown-menu-right {
+  right: 0;
+  left: auto;
+}
+.dropdown-menu-left {
+  right: auto;
+  left: 0;
+}
+>>>>>>> faris
 .dropdown-header {
   display: block;
   padding: 3px 20px;
@@ -3445,6 +3565,7 @@ tbody.collapse.in {
   line-height: 1.42857143;
   color: #777;
   white-space: nowrap;
+<<<<<<< HEAD
 >>>>>>> imelda23
 }
 .glyphicon-th-large:before {
@@ -3478,11 +3599,70 @@ tbody.collapse.in {
 .glyphicon-cog:before {
   content: "\e019";
 =======
+=======
+}
+.dropdown-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 990;
+}
+.pull-right > .dropdown-menu {
+  right: 0;
+  left: auto;
+}
+.dropup .caret,
+.navbar-fixed-bottom .dropdown .caret {
+  content: "";
+  border-top: 0;
+  border-bottom: 4px solid;
+}
+.dropup .dropdown-menu,
+.navbar-fixed-bottom .dropdown .dropdown-menu {
+  top: auto;
+  bottom: 100%;
+  margin-bottom: 1px;
+}
+@media (min-width: 768px) {
+  .navbar-right .dropdown-menu {
+    right: 0;
+    left: auto;
+  }
+  .navbar-right .dropdown-menu-left {
+    right: auto;
+    left: 0;
+  }
+}
+.btn-group,
+.btn-group-vertical {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
+.btn-group > .btn,
+.btn-group-vertical > .btn {
+  position: relative;
+  float: left;
+}
+.btn-group > .btn:hover,
+.btn-group-vertical > .btn:hover,
+.btn-group > .btn:focus,
+.btn-group-vertical > .btn:focus,
+.btn-group > .btn:active,
+.btn-group-vertical > .btn:active,
+.btn-group > .btn.active,
+.btn-group-vertical > .btn.active {
+  z-index: 2;
+}
+>>>>>>> faris
 .btn-group .btn + .btn,
 .btn-group .btn + .btn-group,
 .btn-group .btn-group + .btn,
 .btn-group .btn-group + .btn-group {
   margin-left: -1px;
+<<<<<<< HEAD
 >>>>>>> imelda23
 }
 .glyphicon-trash:before {
@@ -9528,6 +9708,46 @@ tbody.collapse.in {
 .btn-group > .btn-group:first-child > .dropdown-toggle {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
+=======
+}
+.btn-toolbar {
+  margin-left: -5px;
+}
+.btn-toolbar .btn-group,
+.btn-toolbar .input-group {
+  float: left;
+}
+.btn-toolbar > .btn,
+.btn-toolbar > .btn-group,
+.btn-toolbar > .input-group {
+  margin-left: 5px;
+}
+.btn-group > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle) {
+  border-radius: 0;
+}
+.btn-group > .btn:first-child {
+  margin-left: 0;
+}
+.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.btn-group > .btn:last-child:not(:first-child),
+.btn-group > .dropdown-toggle:not(:first-child) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.btn-group > .btn-group {
+  float: left;
+}
+.btn-group > .btn-group:not(:first-child):not(:last-child) > .btn {
+  border-radius: 0;
+}
+.btn-group > .btn-group:first-child > .btn:last-child,
+.btn-group > .btn-group:first-child > .dropdown-toggle {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+>>>>>>> faris
 }
 .btn-group > .btn-group:last-child > .btn:first-child {
   border-top-left-radius: 0;
@@ -9537,6 +9757,7 @@ tbody.collapse.in {
 .btn-group.open .dropdown-toggle {
   outline: 0;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9564,6 +9785,8 @@ tbody.collapse.in {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .btn-group > .btn + .dropdown-toggle {
   padding-right: 8px;
   padding-left: 8px;
@@ -9651,6 +9874,7 @@ tbody.collapse.in {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [data-toggle="buttons"] > .btn > input[type="radio"],
 [data-toggle="buttons"] > .btn > input[type="checkbox"] {
   display: none;
@@ -9659,6 +9883,8 @@ tbody.collapse.in {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .btn-group-justified > .btn-group .dropdown-menu {
   left: auto;
 }
@@ -9671,11 +9897,14 @@ tbody.collapse.in {
   pointer-events: none;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 .input-group {
   position: relative;
@@ -9691,6 +9920,7 @@ tbody.collapse.in {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   position: relative;
   z-index: 2;
@@ -9703,6 +9933,10 @@ tbody.collapse.in {
   position: relative;
   z-index: 2;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  position: relative;
+  z-index: 2;
+>>>>>>> faris
   float: left;
   width: 100%;
   margin-bottom: 0;
@@ -9864,6 +10098,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #777;
 =======
   background-color: #eee;
@@ -9879,6 +10114,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   background-color: #eee;
 }
 .nav > li.disabled > a {
@@ -9888,12 +10125,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li.disabled > a:focus {
   color: #777;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
   color: #777;
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   text-decoration: none;
   cursor: not-allowed;
   background-color: transparent;
@@ -9902,6 +10142,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #eee;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9915,6 +10156,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 =======
   border-color: #337ab7;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  border-color: #337ab7;
+>>>>>>> faris
 }
 .nav .nav-divider {
   height: 1px;
@@ -9937,6 +10181,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   line-height: 1.428571429;
 =======
   line-height: 1.42857143;
@@ -9947,6 +10192,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 =======
   line-height: 1.42857143;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  line-height: 1.42857143;
+>>>>>>> faris
   border: 1px solid transparent;
   border-radius: 4px 4px 0 0;
 }
@@ -10022,6 +10270,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #ccc;
 =======
   background-color: #337ab7;
@@ -10032,6 +10281,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 =======
   background-color: #337ab7;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  background-color: #337ab7;
+>>>>>>> faris
 }
 .nav-stacked > li {
   float: none;
@@ -10091,6 +10343,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 .tab-content > .active {
   display: block;
@@ -10099,6 +10352,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   visibility: hidden;
 }
 .tab-content > .active {
@@ -10106,11 +10361,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   visibility: visible;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 .nav-tabs .dropdown-menu {
   margin-top: -1px;
@@ -10137,6 +10395,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   max-height: 340px;
 =======
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -10144,11 +10403,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   padding-right: 15px;
   padding-left: 15px;
   overflow-x: visible;
   -webkit-overflow-scrolling: touch;
   border-top: 1px solid transparent;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10165,6 +10427,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
           box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
+          box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);
+>>>>>>> faris
 }
 .navbar-collapse.in {
   overflow-y: auto;
@@ -10173,6 +10439,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-collapse {
     width: auto;
     border-top: 0;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10189,12 +10456,17 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     -webkit-box-shadow: none;
             box-shadow: none;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+    -webkit-box-shadow: none;
+            box-shadow: none;
+>>>>>>> faris
   }
   .navbar-collapse.collapse {
     display: block !important;
     height: auto !important;
     padding-bottom: 0;
     overflow: visible !important;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10207,6 +10479,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 =======
     visibility: visible !important;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+    visibility: visible !important;
+>>>>>>> faris
   }
   .navbar-collapse.in {
     overflow-y: visible;
@@ -10221,11 +10496,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .navbar-fixed-top .navbar-collapse,
 .navbar-fixed-bottom .navbar-collapse {
   max-height: 340px;
@@ -10238,11 +10516,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .container > .navbar-header,
 .container-fluid > .navbar-header,
 .container > .navbar-collapse,
@@ -10295,6 +10576,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   height: 20px;
 =======
   height: 50px;
@@ -10305,6 +10587,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 =======
   height: 50px;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  height: 50px;
+>>>>>>> faris
   padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
@@ -10316,6 +10601,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 .navbar-brand > img {
   display: block;
@@ -10331,6 +10617,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   display: block;
 }
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.navbar-brand > img {
+  display: block;
+}
+>>>>>>> faris
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
   .navbar > .container-fluid .navbar-brand {
@@ -10353,6 +10644,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   outline: none;
 =======
   outline: 0;
@@ -10363,6 +10655,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 =======
   outline: 0;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  outline: 0;
+>>>>>>> faris
 }
 .navbar-toggle .icon-bar {
   display: block;
@@ -10397,6 +10692,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     box-shadow: none;
 =======
     -webkit-box-shadow: none;
@@ -10410,6 +10706,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     -webkit-box-shadow: none;
             box-shadow: none;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+    -webkit-box-shadow: none;
+            box-shadow: none;
+>>>>>>> faris
   }
   .navbar-nav .open .dropdown-menu > li > a,
   .navbar-nav .open .dropdown-menu .dropdown-header {
@@ -10438,6 +10738,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   .navbar-nav.navbar-right:last-child {
     margin-right: -15px;
   }
@@ -10455,6 +10756,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 .navbar-form {
   padding: 10px 15px;
@@ -10481,11 +10784,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   .navbar-form .form-control-static {
     display: inline-block;
   }
@@ -10503,11 +10809,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   .navbar-form .control-label {
     margin-bottom: 0;
     vertical-align: middle;
@@ -10518,6 +10827,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     padding-left: 0;
 =======
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -10525,10 +10835,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
     margin-top: 0;
     margin-bottom: 0;
     vertical-align: middle;
   }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10548,6 +10861,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
+=======
+>>>>>>> faris
   .navbar-form .radio label,
   .navbar-form .checkbox label {
     padding-left: 0;
@@ -10555,9 +10870,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-form .radio input[type="radio"],
   .navbar-form .checkbox input[type="checkbox"] {
     position: relative;
+<<<<<<< HEAD
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
     margin-left: 0;
   }
   .navbar-form .has-feedback .form-control-feedback {
@@ -10568,6 +10886,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-form .form-group {
     margin-bottom: 5px;
   }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10586,6 +10905,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin-bottom: 0;
   }
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  .navbar-form .form-group:last-child {
+    margin-bottom: 0;
+  }
+>>>>>>> faris
 }
 @media (min-width: 768px) {
   .navbar-form {
@@ -10601,6 +10925,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   .navbar-form.navbar-right:last-child {
     margin-right: -15px;
   }
@@ -10610,6 +10935,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 .navbar-nav > li > .dropdown-menu {
   margin-top: 0;
@@ -10620,6 +10947,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
@@ -10632,6 +10960,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+>>>>>>> faris
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
@@ -10660,12 +10992,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   .navbar-text.navbar-right:last-child {
 =======
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 @media (min-width: 768px) {
   .navbar-left {
@@ -10678,11 +11013,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-right ~ .navbar-right {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
     margin-right: 0;
   }
 }
@@ -10772,11 +11110,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .navbar-default .btn-link {
   color: #777;
 }
@@ -10792,16 +11133,20 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .navbar-inverse {
   background-color: #222;
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10815,6 +11160,9 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 =======
   color: #9d9d9d;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  color: #9d9d9d;
+>>>>>>> faris
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -10825,6 +11173,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: #999;
 }
 .navbar-inverse .navbar-nav > li > a {
@@ -10839,13 +11188,18 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
+=======
+>>>>>>> faris
   color: #9d9d9d;
 }
 .navbar-inverse .navbar-nav > li > a {
   color: #9d9d9d;
+<<<<<<< HEAD
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
@@ -10895,6 +11249,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: #999;
 =======
     color: #9d9d9d;
@@ -10905,6 +11260,9 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 =======
     color: #9d9d9d;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+    color: #9d9d9d;
+>>>>>>> faris
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -10928,6 +11286,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: #999;
 =======
   color: #9d9d9d;
@@ -10938,10 +11297,14 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 =======
   color: #9d9d9d;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  color: #9d9d9d;
+>>>>>>> faris
 }
 .navbar-inverse .navbar-link:hover {
   color: #fff;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10950,6 +11313,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .navbar-inverse .btn-link {
   color: #9d9d9d;
 }
@@ -10965,11 +11330,14 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .breadcrumb {
   padding: 8px 15px;
   margin-bottom: 20px;
@@ -10989,6 +11357,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: #999;
 =======
   color: #777;
@@ -10999,6 +11368,9 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 =======
   color: #777;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  color: #777;
+>>>>>>> faris
 }
 .pagination {
   display: inline-block;
@@ -11018,6 +11390,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   line-height: 1.428571429;
   color: #428bca;
 =======
@@ -11032,6 +11405,10 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   line-height: 1.42857143;
   color: #337ab7;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  line-height: 1.42857143;
+  color: #337ab7;
+>>>>>>> faris
   text-decoration: none;
   background-color: #fff;
   border: 1px solid #ddd;
@@ -11054,6 +11431,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: #2a6496;
 =======
   color: #23527c;
@@ -11064,6 +11442,9 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 =======
   color: #23527c;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  color: #23527c;
+>>>>>>> faris
   background-color: #eee;
   border-color: #ddd;
 }
@@ -11076,6 +11457,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   z-index: 2;
   color: #fff;
   cursor: default;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11093,11 +11475,16 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   background-color: #337ab7;
   border-color: #337ab7;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  background-color: #337ab7;
+  border-color: #337ab7;
+>>>>>>> faris
 }
 .pagination > .disabled > span,
 .pagination > .disabled > span:hover,
 .pagination > .disabled > span:focus,
 .pagination > .disabled > a,
+<<<<<<< HEAD
 .pagination > .disabled > a:hover,
 .pagination > .disabled > a:focus {
 <<<<<<< HEAD
@@ -11113,6 +11500,11 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 =======
   color: #777;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.pagination > .disabled > a:hover,
+.pagination > .disabled > a:focus {
+  color: #777;
+>>>>>>> faris
   cursor: not-allowed;
   background-color: #fff;
   border-color: #ddd;
@@ -11184,6 +11576,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: #999;
 =======
   color: #777;
@@ -11194,6 +11587,9 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 =======
   color: #777;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  color: #777;
+>>>>>>> faris
   cursor: not-allowed;
   background-color: #fff;
 }
@@ -11212,6 +11608,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .label[href]:hover,
 .label[href]:focus {
 =======
@@ -11226,6 +11623,10 @@ a.label:focus {
 a.label:hover,
 a.label:focus {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+a.label:hover,
+a.label:focus {
+>>>>>>> faris
   color: #fff;
   text-decoration: none;
   cursor: pointer;
@@ -11238,6 +11639,7 @@ a.label:focus {
   top: -1px;
 }
 .label-default {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11260,6 +11662,8 @@ a.label:focus {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   background-color: #777;
 }
 .label-default[href]:hover,
@@ -11273,12 +11677,15 @@ a.label:focus {
 .label-primary[href]:focus {
   background-color: #286090;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
   background-color: #286090;
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 .label-success {
   background-color: #5cb85c;
@@ -11322,6 +11729,7 @@ a.label:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #999;
 =======
   background-color: #777;
@@ -11332,6 +11740,9 @@ a.label:focus {
 =======
   background-color: #777;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  background-color: #777;
+>>>>>>> faris
   border-radius: 10px;
 }
 .badge:empty {
@@ -11354,6 +11765,7 @@ a.badge:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 a.list-group-item.active > .badge,
 =======
 .list-group-item.active > .badge,
@@ -11366,13 +11778,18 @@ a.list-group-item.active > .badge,
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
   color: #337ab7;
   background-color: #fff;
 }
+<<<<<<< HEAD
 =======
 >>>>>>> imelda23
+=======
+>>>>>>> faris
 .list-group-item > .badge {
   float: right;
 }
@@ -11381,15 +11798,19 @@ a.list-group-item.active > .badge,
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .nav-pills > li > a > .badge {
   margin-left: 3px;
 }
 .jumbotron {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11403,6 +11824,9 @@ a.list-group-item.active > .badge,
 =======
   padding: 30px 15px;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  padding: 30px 15px;
+>>>>>>> faris
   margin-bottom: 30px;
   color: inherit;
   background-color: #eee;
@@ -11419,12 +11843,15 @@ a.list-group-item.active > .badge,
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .container .jumbotron {
 =======
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .jumbotron > hr {
   border-top-color: #d5d5d5;
 }
@@ -11432,11 +11859,14 @@ a.list-group-item.active > .badge,
 .container-fluid .jumbotron {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   border-radius: 6px;
 }
 .jumbotron .container {
@@ -11444,6 +11874,7 @@ a.list-group-item.active > .badge,
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11461,13 +11892,18 @@ a.list-group-item.active > .badge,
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
+=======
+>>>>>>> faris
     padding: 48px 0;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
+<<<<<<< HEAD
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
     padding-right: 60px;
     padding-left: 60px;
   }
@@ -11480,6 +11916,7 @@ a.list-group-item.active > .badge,
   display: block;
   padding: 4px;
   margin-bottom: 20px;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11503,6 +11940,8 @@ a.list-group-item.active > .badge,
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   line-height: 1.42857143;
   background-color: #fff;
   border: 1px solid #ddd;
@@ -11514,17 +11953,21 @@ a.list-group-item.active > .badge,
 .thumbnail > img,
 .thumbnail a > img {
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   margin-right: auto;
   margin-left: auto;
 }
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11538,6 +11981,9 @@ a.thumbnail.active {
 =======
   border-color: #337ab7;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  border-color: #337ab7;
+>>>>>>> faris
 }
 .thumbnail .caption {
   padding: 9px;
@@ -11566,6 +12012,7 @@ a.thumbnail.active {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .alert-dismissable {
   padding-right: 35px;
 }
@@ -11582,15 +12029,20 @@ a.thumbnail.active {
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
+=======
+>>>>>>> faris
 .alert-dismissable,
 .alert-dismissible {
   padding-right: 35px;
 }
 .alert-dismissable .close,
 .alert-dismissible .close {
+<<<<<<< HEAD
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   position: relative;
   top: -2px;
   right: -21px;
@@ -11651,11 +12103,14 @@ a.thumbnail.active {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 @-o-keyframes progress-bar-stripes {
   from {
     background-position: 40px 0;
@@ -11666,11 +12121,14 @@ a.thumbnail.active {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 @keyframes progress-bar-stripes {
   from {
     background-position: 40px 0;
@@ -11699,6 +12157,7 @@ a.thumbnail.active {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #428bca;
 =======
   background-color: #337ab7;
@@ -11724,6 +12183,8 @@ a.thumbnail.active {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   background-color: #337ab7;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
           box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
@@ -11744,12 +12205,15 @@ a.thumbnail.active {
   -webkit-animation: progress-bar-stripes 2s linear infinite;
        -o-animation: progress-bar-stripes 2s linear infinite;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
        -o-animation: progress-bar-stripes 2s linear infinite;
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
           animation: progress-bar-stripes 2s linear infinite;
 }
 .progress-bar-success {
@@ -11760,6 +12224,7 @@ a.thumbnail.active {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -11769,6 +12234,9 @@ a.thumbnail.active {
 =======
   background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+>>>>>>> faris
   background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 }
 .progress-bar-info {
@@ -11779,6 +12247,7 @@ a.thumbnail.active {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -11788,6 +12257,9 @@ a.thumbnail.active {
 =======
   background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+>>>>>>> faris
   background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 }
 .progress-bar-warning {
@@ -11798,6 +12270,7 @@ a.thumbnail.active {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -11807,6 +12280,9 @@ a.thumbnail.active {
 =======
   background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+>>>>>>> faris
   background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 }
 .progress-bar-danger {
@@ -11814,6 +12290,7 @@ a.thumbnail.active {
 }
 .progress-striped .progress-bar-danger {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11836,18 +12313,24 @@ a.thumbnail.active {
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
+=======
+>>>>>>> faris
   background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
   background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
 }
 .media {
+<<<<<<< HEAD
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   margin-top: 15px;
 }
 .media:first-child {
   margin-top: 0;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11881,6 +12364,8 @@ a.thumbnail.active {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .media-right,
 .media > .pull-right {
   padding-left: 10px;
@@ -11905,6 +12390,7 @@ a.thumbnail.active {
   margin-top: 0;
   margin-bottom: 5px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 .media-heading {
@@ -11913,6 +12399,8 @@ a.thumbnail.active {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 .media-list {
   padding-left: 0;
@@ -11942,6 +12430,7 @@ a.thumbnail.active {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .list-group-item > .badge {
   float: right;
 }
@@ -11954,6 +12443,8 @@ a.thumbnail.active {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 a.list-group-item {
   color: #555;
 }
@@ -11962,6 +12453,7 @@ a.list-group-item .list-group-item-heading {
 }
 a.list-group-item:hover,
 a.list-group-item:focus {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11990,6 +12482,8 @@ a.list-group-item.active:focus .list-group-item-text {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   color: #555;
   text-decoration: none;
   background-color: #f5f5f5;
@@ -12036,11 +12530,14 @@ a.list-group-item.active:focus .list-group-item-text {
   color: #c7ddef;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 .list-group-item-success {
   color: #3c763d;
@@ -12152,6 +12649,7 @@ a.list-group-item-danger.active:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .panel > .list-group {
 =======
 .panel-heading {
@@ -12200,6 +12698,8 @@ a.list-group-item-danger.active:focus {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .panel-heading {
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
@@ -12244,6 +12744,7 @@ a.list-group-item-danger.active:focus {
 .panel > .panel-collapse > .list-group:last-child .list-group-item:last-child {
   border-bottom: 0;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 .panel > .list-group:last-child .list-group-item:last-child,
@@ -12252,6 +12753,8 @@ a.list-group-item-danger.active:focus {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
 }
@@ -12261,6 +12764,7 @@ a.list-group-item-danger.active:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 .list-group + .panel-footer {
   border-top-width: 0;
@@ -12275,6 +12779,8 @@ a.list-group-item-danger.active:focus {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .list-group + .panel-footer {
   border-top-width: 0;
 }
@@ -12283,8 +12789,11 @@ a.list-group-item-danger.active:focus {
 .panel > .panel-collapse > .table {
   margin-bottom: 0;
 }
+<<<<<<< HEAD
 =======
 >>>>>>> imelda23
+=======
+>>>>>>> faris
 .panel > .table caption,
 .panel > .table-responsive > .table caption,
 .panel > .panel-collapse > .table caption {
@@ -12305,11 +12814,14 @@ a.list-group-item-danger.active:focus {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .panel > .table:first-child > thead:first-child > tr:first-child td:first-child,
 .panel > .table-responsive:first-child > .table:first-child > thead:first-child > tr:first-child td:first-child,
 .panel > .table:first-child > tbody:first-child > tr:first-child td:first-child,
@@ -12333,11 +12845,14 @@ a.list-group-item-danger.active:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .panel > .table:last-child,
 .panel > .table-responsive:last-child > .table:last-child {
   border-bottom-right-radius: 3px;
@@ -12352,11 +12867,14 @@ a.list-group-item-danger.active:focus {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .panel > .table:last-child > tbody:last-child > tr:last-child td:first-child,
 .panel > .table-responsive:last-child > .table:last-child > tbody:last-child > tr:last-child td:first-child,
 .panel > .table:last-child > tfoot:last-child > tr:last-child td:first-child,
@@ -12381,6 +12899,7 @@ a.list-group-item-danger.active:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .panel > .panel-body + .table-responsive {
 =======
 .panel > .panel-body + .table-responsive,
@@ -12397,6 +12916,11 @@ a.list-group-item-danger.active:focus {
 .panel > .table + .panel-body,
 .panel > .table-responsive + .panel-body {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.panel > .panel-body + .table-responsive,
+.panel > .table + .panel-body,
+.panel > .table-responsive + .panel-body {
+>>>>>>> faris
   border-top: 1px solid #ddd;
 }
 .panel > .table > tbody:first-child > tr:first-child th,
@@ -12438,6 +12962,7 @@ a.list-group-item-danger.active:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .panel > .table-bordered > thead > tr:first-child > th,
 .panel > .table-responsive > .table-bordered > thead > tr:first-child > th,
 .panel > .table-bordered > tbody > tr:first-child > th,
@@ -12450,6 +12975,8 @@ a.list-group-item-danger.active:focus {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .panel > .table-bordered > thead > tr:first-child > td,
 .panel > .table-responsive > .table-bordered > thead > tr:first-child > td,
 .panel > .table-bordered > tbody > tr:first-child > td,
@@ -12457,20 +12984,27 @@ a.list-group-item-danger.active:focus {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .panel > .table-bordered > tfoot > tr:first-child > td,
 .panel > .table-responsive > .table-bordered > tfoot > tr:first-child > td {
   border-top: 0;
 =======
+=======
+>>>>>>> faris
 .panel > .table-bordered > thead > tr:first-child > th,
 .panel > .table-responsive > .table-bordered > thead > tr:first-child > th,
 .panel > .table-bordered > tbody > tr:first-child > th,
 .panel > .table-responsive > .table-bordered > tbody > tr:first-child > th {
   border-bottom: 0;
+<<<<<<< HEAD
 >>>>>>> imelda23
+=======
+>>>>>>> faris
 }
 .panel > .table-bordered > tbody > tr:last-child > td,
 .panel > .table-responsive > .table-bordered > tbody > tr:last-child > td,
 .panel > .table-bordered > tfoot > tr:last-child > td,
+<<<<<<< HEAD
 <<<<<<< HEAD
 .panel > .table-responsive > .table-bordered > tfoot > tr:last-child > td {
 =======
@@ -12487,6 +13021,8 @@ a.list-group-item-danger.active:focus {
 .panel > .table-bordered > tfoot > tr:last-child > td,
 =======
 >>>>>>> imelda23
+=======
+>>>>>>> faris
 .panel > .table-responsive > .table-bordered > tfoot > tr:last-child > td,
 .panel > .table-bordered > tbody > tr:last-child > th,
 .panel > .table-responsive > .table-bordered > tbody > tr:last-child > th,
@@ -12494,17 +13030,21 @@ a.list-group-item-danger.active:focus {
 .panel > .table-responsive > .table-bordered > tfoot > tr:last-child > th {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   border-bottom: 0;
 }
 .panel > .table-responsive {
   margin-bottom: 0;
   border: 0;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12539,11 +13079,14 @@ a.list-group-item-danger.active:focus {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .panel-group {
   margin-bottom: 20px;
 }
 .panel-group .panel {
   margin-bottom: 0;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12554,6 +13097,8 @@ a.list-group-item-danger.active:focus {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   border-radius: 4px;
 }
 .panel-group .panel + .panel {
@@ -12562,6 +13107,7 @@ a.list-group-item-danger.active:focus {
 .panel-group .panel-heading {
   border-bottom: 0;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12631,6 +13177,26 @@ a.list-group-item-danger.active:focus {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.panel-group .panel-heading + .panel-collapse > .panel-body,
+.panel-group .panel-heading + .panel-collapse > .list-group {
+  border-top: 1px solid #ddd;
+}
+.panel-group .panel-footer {
+  border-top: 0;
+}
+.panel-group .panel-footer + .panel-collapse .panel-body {
+  border-bottom: 1px solid #ddd;
+}
+.panel-default {
+  border-color: #ddd;
+}
+.panel-default > .panel-heading {
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ddd;
+}
+>>>>>>> faris
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
   border-top-color: #ddd;
 }
@@ -12659,6 +13225,7 @@ a.list-group-item-danger.active:focus {
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #337ab7;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
@@ -12666,6 +13233,8 @@ a.list-group-item-danger.active:focus {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 .panel-success {
   border-color: #d6e9c6;
@@ -12675,6 +13244,7 @@ a.list-group-item-danger.active:focus {
   background-color: #dff0d8;
   border-color: #d6e9c6;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12693,6 +13263,11 @@ a.list-group-item-danger.active:focus {
   border-top-color: #d6e9c6;
 }
 >>>>>>> imelda23
+=======
+.panel-success > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #d6e9c6;
+}
+>>>>>>> faris
 .panel-success > .panel-heading .badge {
   color: #dff0d8;
   background-color: #3c763d;
@@ -12700,11 +13275,14 @@ a.list-group-item-danger.active:focus {
 .panel-success > .panel-footer + .panel-collapse > .panel-body {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   border-bottom-color: #d6e9c6;
 }
 .panel-info {
@@ -12715,6 +13293,7 @@ a.list-group-item-danger.active:focus {
   background-color: #d9edf7;
   border-color: #bce8f1;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12733,6 +13312,11 @@ a.list-group-item-danger.active:focus {
   border-top-color: #bce8f1;
 }
 >>>>>>> imelda23
+=======
+.panel-info > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #bce8f1;
+}
+>>>>>>> faris
 .panel-info > .panel-heading .badge {
   color: #d9edf7;
   background-color: #31708f;
@@ -12740,11 +13324,14 @@ a.list-group-item-danger.active:focus {
 .panel-info > .panel-footer + .panel-collapse > .panel-body {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   border-bottom-color: #bce8f1;
 }
 .panel-warning {
@@ -12755,6 +13342,7 @@ a.list-group-item-danger.active:focus {
   background-color: #fcf8e3;
   border-color: #faebcc;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12773,6 +13361,11 @@ a.list-group-item-danger.active:focus {
   border-top-color: #faebcc;
 }
 >>>>>>> imelda23
+=======
+.panel-warning > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #faebcc;
+}
+>>>>>>> faris
 .panel-warning > .panel-heading .badge {
   color: #fcf8e3;
   background-color: #8a6d3b;
@@ -12780,11 +13373,14 @@ a.list-group-item-danger.active:focus {
 .panel-warning > .panel-footer + .panel-collapse > .panel-body {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   border-bottom-color: #faebcc;
 }
 .panel-danger {
@@ -12795,6 +13391,7 @@ a.list-group-item-danger.active:focus {
   background-color: #f2dede;
   border-color: #ebccd1;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12815,6 +13412,8 @@ a.list-group-item-danger.active:focus {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .panel-danger > .panel-heading + .panel-collapse > .panel-body {
   border-top-color: #ebccd1;
 }
@@ -12825,8 +13424,11 @@ a.list-group-item-danger.active:focus {
 .panel-danger > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #ebccd1;
 }
+<<<<<<< HEAD
 =======
 >>>>>>> imelda23
+=======
+>>>>>>> faris
 .embed-responsive {
   position: relative;
   display: block;
@@ -12855,11 +13457,14 @@ a.list-group-item-danger.active:focus {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .well {
   min-height: 20px;
   padding: 19px;
@@ -12921,6 +13526,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   overflow: auto;
   overflow-y: scroll;
 =======
@@ -12932,11 +13538,15 @@ button.close {
 =======
   overflow: hidden;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  overflow: hidden;
+>>>>>>> faris
   -webkit-overflow-scrolling: touch;
   outline: 0;
 }
 .modal.fade .modal-dialog {
   -webkit-transition: -webkit-transform .3s ease-out;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12947,10 +13557,13 @@ button.close {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
        -o-transition:      -o-transform .3s ease-out;
           transition:         transform .3s ease-out;
   -webkit-transform: translate(0, -25%);
       -ms-transform: translate(0, -25%);
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12963,11 +13576,15 @@ button.close {
 =======
        -o-transform: translate(0, -25%);
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+       -o-transform: translate(0, -25%);
+>>>>>>> faris
           transform: translate(0, -25%);
 }
 .modal.in .modal-dialog {
   -webkit-transform: translate(0, 0);
       -ms-transform: translate(0, 0);
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -12978,6 +13595,8 @@ button.close {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
        -o-transform: translate(0, 0);
           transform: translate(0, 0);
 }
@@ -12987,11 +13606,14 @@ button.close {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .modal-dialog {
   position: relative;
   width: auto;
@@ -13000,6 +13622,7 @@ button.close {
 .modal-content {
   position: relative;
   background-color: #fff;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13020,15 +13643,20 @@ button.close {
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
+=======
+>>>>>>> faris
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
   border: 1px solid #999;
   border: 1px solid rgba(0, 0, 0, .2);
   border-radius: 6px;
   outline: 0;
+<<<<<<< HEAD
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
           box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
 }
@@ -13053,6 +13681,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   min-height: 16.428571429px;
 =======
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -13060,6 +13689,8 @@ button.close {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   padding: 15px;
   border-bottom: 1px solid #e5e5e5;
 }
@@ -13068,6 +13699,7 @@ button.close {
 }
 .modal-title {
   margin: 0;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13087,6 +13719,8 @@ button.close {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   line-height: 1.42857143;
 }
 .modal-body {
@@ -13096,12 +13730,15 @@ button.close {
 .modal-footer {
   padding: 15px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
   padding: 15px;
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   text-align: right;
   border-top: 1px solid #e5e5e5;
 }
@@ -13118,11 +13755,14 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .modal-scrollbar-measure {
   position: absolute;
   top: -9999px;
@@ -13132,11 +13772,14 @@ button.close {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 @media (min-width: 768px) {
   .modal-dialog {
     width: 600px;
@@ -13152,6 +13795,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 }
 @media (min-width: 992px) {
@@ -13164,12 +13808,17 @@ button.close {
 }
 @media (min-width: 992px) {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+}
+@media (min-width: 992px) {
+>>>>>>> faris
   .modal-lg {
     width: 900px;
   }
 }
 .tooltip {
   position: absolute;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13184,11 +13833,14 @@ button.close {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   z-index: 1070;
   display: block;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
   font-weight: normal;
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
@@ -13196,6 +13848,8 @@ button.close {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   line-height: 1.4;
   visibility: visible;
   filter: alpha(opacity=0);
@@ -13248,6 +13902,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   bottom: 0;
   left: 5px;
 =======
@@ -13265,6 +13920,11 @@ button.close {
   bottom: 0;
   margin-bottom: -5px;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  right: 5px;
+  bottom: 0;
+  margin-bottom: -5px;
+>>>>>>> faris
   border-width: 5px 5px 0;
   border-top-color: #000;
 }
@@ -13272,6 +13932,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   right: 5px;
   bottom: 0;
 =======
@@ -13289,6 +13950,11 @@ button.close {
   left: 5px;
   margin-bottom: -5px;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  bottom: 0;
+  left: 5px;
+  margin-bottom: -5px;
+>>>>>>> faris
   border-width: 5px 5px 0;
   border-top-color: #000;
 }
@@ -13318,6 +13984,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   left: 5px;
 =======
   right: 5px;
@@ -13331,6 +13998,10 @@ button.close {
   right: 5px;
   margin-top: -5px;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  right: 5px;
+  margin-top: -5px;
+>>>>>>> faris
   border-width: 0 5px 5px;
   border-bottom-color: #000;
 }
@@ -13339,6 +14010,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   right: 5px;
 =======
   left: 5px;
@@ -13352,6 +14024,10 @@ button.close {
   left: 5px;
   margin-top: -5px;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  left: 5px;
+  margin-top: -5px;
+>>>>>>> faris
   border-width: 0 5px 5px;
   border-bottom-color: #000;
 }
@@ -13359,6 +14035,7 @@ button.close {
   position: absolute;
   top: 0;
   left: 0;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13381,6 +14058,8 @@ button.close {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   z-index: 1060;
   display: none;
   max-width: 276px;
@@ -13395,6 +14074,7 @@ button.close {
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
   -webkit-background-clip: padding-box;
@@ -13402,6 +14082,8 @@ button.close {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   border: 1px solid #ccc;
   border: 1px solid rgba(0, 0, 0, .2);
   border-radius: 6px;
@@ -13427,6 +14109,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   font-weight: normal;
   line-height: 18px;
 =======
@@ -13435,6 +14118,8 @@ button.close {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   background-color: #f7f7f7;
   border-bottom: 1px solid #ebebeb;
   border-radius: 5px 5px 0 0;
@@ -13442,6 +14127,7 @@ button.close {
 .popover-content {
   padding: 9px 14px;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13459,6 +14145,10 @@ button.close {
 .popover > .arrow,
 .popover > .arrow:after {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.popover > .arrow,
+.popover > .arrow:after {
+>>>>>>> faris
   position: absolute;
   display: block;
   width: 0;
@@ -13466,6 +14156,7 @@ button.close {
   border-color: transparent;
   border-style: solid;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13484,6 +14175,8 @@ button.close {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .popover > .arrow {
   border-width: 11px;
 }
@@ -13493,12 +14186,15 @@ button.close {
 }
 .popover.top > .arrow {
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 .popover.top > .arrow {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   bottom: -11px;
   left: 50%;
   margin-left: -11px;
@@ -13506,6 +14202,7 @@ button.close {
   border-top-color: rgba(0, 0, 0, .25);
   border-bottom-width: 0;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13519,12 +14216,16 @@ button.close {
 =======
 .popover.top > .arrow:after {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.popover.top > .arrow:after {
+>>>>>>> faris
   bottom: 1px;
   margin-left: -10px;
   content: " ";
   border-top-color: #fff;
   border-bottom-width: 0;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13538,6 +14239,9 @@ button.close {
 =======
 .popover.right > .arrow {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.popover.right > .arrow {
+>>>>>>> faris
   top: 50%;
   left: -11px;
   margin-top: -11px;
@@ -13545,6 +14249,7 @@ button.close {
   border-right-color: rgba(0, 0, 0, .25);
   border-left-width: 0;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13558,12 +14263,16 @@ button.close {
 =======
 .popover.right > .arrow:after {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.popover.right > .arrow:after {
+>>>>>>> faris
   bottom: -10px;
   left: 1px;
   content: " ";
   border-right-color: #fff;
   border-left-width: 0;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13577,6 +14286,9 @@ button.close {
 =======
 .popover.bottom > .arrow {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.popover.bottom > .arrow {
+>>>>>>> faris
   top: -11px;
   left: 50%;
   margin-left: -11px;
@@ -13584,6 +14296,7 @@ button.close {
   border-bottom-color: #999;
   border-bottom-color: rgba(0, 0, 0, .25);
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13597,12 +14310,16 @@ button.close {
 =======
 .popover.bottom > .arrow:after {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.popover.bottom > .arrow:after {
+>>>>>>> faris
   top: 1px;
   margin-left: -10px;
   content: " ";
   border-top-width: 0;
   border-bottom-color: #fff;
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13616,6 +14333,9 @@ button.close {
 =======
 .popover.left > .arrow {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.popover.left > .arrow {
+>>>>>>> faris
   top: 50%;
   right: -11px;
   margin-top: -11px;
@@ -13623,6 +14343,7 @@ button.close {
   border-left-color: #999;
   border-left-color: rgba(0, 0, 0, .25);
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13636,6 +14357,9 @@ button.close {
 =======
 .popover.left > .arrow:after {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.popover.left > .arrow:after {
+>>>>>>> faris
   right: 1px;
   bottom: -10px;
   content: " ";
@@ -13657,6 +14381,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
        -o-transition: .6s ease-in-out left;
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -13666,10 +14391,14 @@ button.close {
 =======
        -o-transition: .6s ease-in-out left;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+       -o-transition: .6s ease-in-out left;
+>>>>>>> faris
           transition: .6s ease-in-out left;
 }
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13687,6 +14416,10 @@ button.close {
   line-height: 1;
 }
 >>>>>>> imelda23
+=======
+  line-height: 1;
+}
+>>>>>>> faris
 @media all and (transform-3d), (-webkit-transform-3d) {
   .carousel-inner > .item {
     -webkit-transition: -webkit-transform .6s ease-in-out;
@@ -13720,11 +14453,14 @@ button.close {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .carousel-inner > .active,
 .carousel-inner > .next,
 .carousel-inner > .prev {
@@ -13772,6 +14508,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-image: -webkit-linear-gradient(left, color-stop(rgba(0, 0, 0, .5) 0%), color-stop(rgba(0, 0, 0, .0001) 100%));
 =======
   background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);
@@ -13788,6 +14525,11 @@ button.close {
   background-image:      -o-linear-gradient(left, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);
   background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .0001)));
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);
+  background-image:      -o-linear-gradient(left, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .0001)));
+>>>>>>> faris
   background-image:         linear-gradient(to right, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
   background-repeat: repeat-x;
@@ -13795,6 +14537,7 @@ button.close {
 .carousel-control.right {
   right: 0;
   left: auto;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13814,6 +14557,11 @@ button.close {
   background-image:      -o-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(0, 0, 0, .5) 100%);
   background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .0001)), to(rgba(0, 0, 0, .5)));
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(0, 0, 0, .5) 100%);
+  background-image:      -o-linear-gradient(left, rgba(0, 0, 0, .0001) 0%, rgba(0, 0, 0, .5) 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .0001)), to(rgba(0, 0, 0, .5)));
+>>>>>>> faris
   background-image:         linear-gradient(to right, rgba(0, 0, 0, .0001) 0%, rgba(0, 0, 0, .5) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
   background-repeat: repeat-x;
@@ -13823,6 +14571,7 @@ button.close {
   color: #fff;
   text-decoration: none;
   filter: alpha(opacity=90);
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13836,6 +14585,9 @@ button.close {
 =======
   outline: 0;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  outline: 0;
+>>>>>>> faris
   opacity: .9;
 }
 .carousel-control .icon-prev,
@@ -13853,6 +14605,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   margin-left: -10px;
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -13862,6 +14615,9 @@ button.close {
 =======
   margin-left: -10px;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  margin-left: -10px;
+>>>>>>> faris
 }
 .carousel-control .icon-next,
 .carousel-control .glyphicon-chevron-right {
@@ -13869,6 +14625,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   margin-right: -10px;
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -13878,6 +14635,9 @@ button.close {
 =======
   margin-right: -10px;
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  margin-right: -10px;
+>>>>>>> faris
 }
 .carousel-control .icon-prev,
 .carousel-control .icon-next {
@@ -13887,6 +14647,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   margin-left: -10px;
 =======
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -13894,6 +14655,8 @@ button.close {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   font-family: serif;
 }
 .carousel-control .icon-prev:before {
@@ -13950,6 +14713,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   .carousel-control .glyphicons-chevron-left,
   .carousel-control .glyphicons-chevron-right,
 =======
@@ -13964,11 +14728,16 @@ button.close {
   .carousel-control .glyphicon-chevron-left,
   .carousel-control .glyphicon-chevron-right,
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  .carousel-control .glyphicon-chevron-left,
+  .carousel-control .glyphicon-chevron-right,
+>>>>>>> faris
   .carousel-control .icon-prev,
   .carousel-control .icon-next {
     width: 30px;
     height: 30px;
     margin-top: -15px;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13984,6 +14753,10 @@ button.close {
     font-size: 30px;
   }
 >>>>>>> imelda23
+=======
+    font-size: 30px;
+  }
+>>>>>>> faris
   .carousel-control .glyphicon-chevron-left,
   .carousel-control .icon-prev {
     margin-left: -15px;
@@ -13994,11 +14767,14 @@ button.close {
   }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   .carousel-caption {
     right: 20%;
     left: 20%;
@@ -14013,6 +14789,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 .dl-horizontal dd:before,
 .dl-horizontal dd:after,
@@ -14025,6 +14802,10 @@ button.close {
 .dl-horizontal dd:before,
 .dl-horizontal dd:after,
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.dl-horizontal dd:before,
+.dl-horizontal dd:after,
+>>>>>>> faris
 .container:before,
 .container:after,
 .container-fluid:before,
@@ -14058,6 +14839,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 .dl-horizontal dd:after,
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
@@ -14067,6 +14849,9 @@ button.close {
 =======
 .dl-horizontal dd:after,
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+.dl-horizontal dd:after,
+>>>>>>> faris
 .container:after,
 .container-fluid:after,
 .row:after,
@@ -14123,6 +14908,7 @@ button.close {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 tr.visible-xs,
 th.visible-xs,
 td.visible-xs {
@@ -14131,6 +14917,8 @@ td.visible-xs {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 .visible-sm,
 .visible-md,
 .visible-lg {
@@ -14150,11 +14938,14 @@ td.visible-xs {
 .visible-lg-inline-block {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   display: none !important;
 }
 @media (max-width: 767px) {
@@ -14175,6 +14966,7 @@ td.visible-xs {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .visible-sm,
 tr.visible-sm,
 th.visible-sm,
@@ -14185,6 +14977,8 @@ td.visible-sm {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 @media (max-width: 767px) {
   .visible-xs-block {
     display: block !important;
@@ -14201,11 +14995,14 @@ td.visible-sm {
   }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .visible-sm {
@@ -14225,6 +15022,7 @@ td.visible-sm {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .visible-md,
 tr.visible-md,
 th.visible-md,
@@ -14235,6 +15033,8 @@ td.visible-md {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 @media (min-width: 768px) and (max-width: 991px) {
   .visible-sm-block {
     display: block !important;
@@ -14251,11 +15051,14 @@ td.visible-md {
   }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .visible-md {
@@ -14275,6 +15078,7 @@ td.visible-md {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .visible-lg,
 tr.visible-lg,
 th.visible-lg,
@@ -14285,6 +15089,8 @@ td.visible-lg {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 @media (min-width: 992px) and (max-width: 1199px) {
   .visible-md-block {
     display: block !important;
@@ -14301,11 +15107,14 @@ td.visible-lg {
   }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
 }
 @media (min-width: 1200px) {
   .visible-lg {
@@ -14322,6 +15131,7 @@ td.visible-lg {
     display: table-cell !important;
   }
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14353,6 +15163,8 @@ td.visible-lg {
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
+=======
+>>>>>>> faris
 @media (min-width: 1200px) {
   .visible-lg-block {
     display: block !important;
@@ -14370,13 +15182,17 @@ td.visible-lg {
 }
 @media (max-width: 767px) {
   .hidden-xs {
+<<<<<<< HEAD
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
     display: none !important;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14393,10 +15209,14 @@ td.visible-lg {
 =======
   .hidden-sm {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  .hidden-sm {
+>>>>>>> faris
     display: none !important;
   }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14413,10 +15233,14 @@ td.visible-lg {
 =======
   .hidden-md {
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+  .hidden-md {
+>>>>>>> faris
     display: none !important;
   }
 }
 @media (min-width: 1200px) {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14434,11 +15258,14 @@ td.visible-print {
 =======
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   .hidden-lg {
     display: none !important;
   }
 }
 .visible-print {
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
@@ -14450,6 +15277,8 @@ td.visible-print {
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
   display: none !important;
 }
 @media print {
@@ -14467,6 +15296,7 @@ td.visible-print {
     display: table-cell !important;
   }
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14507,6 +15337,8 @@ td.visible-print {
 <<<<<<< HEAD
 >>>>>>> 4d01aeaa92231f59749c1b06833b1cf6617bba42
 =======
+=======
+>>>>>>> faris
 .visible-print-block {
   display: none !important;
 }
@@ -14533,9 +15365,12 @@ td.visible-print {
 }
 @media print {
   .hidden-print {
+<<<<<<< HEAD
 >>>>>>> imelda23
 =======
 >>>>>>> 37a23696fbfd63863170ffaba1d63e320798c31d
+=======
+>>>>>>> faris
     display: none !important;
   }
 }

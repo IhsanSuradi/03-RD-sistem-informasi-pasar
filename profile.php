@@ -172,6 +172,7 @@ $totalRows_logout = mysql_num_rows($logout);
                     <thead>
                         <tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
                             <th width="24%" class="text-center">Nama Barang</th>
                             <th width="15%" class="text-center">Jumlah Stock</th>
                             <th width="37%" class="text-center">Harga Barang</th>
@@ -224,6 +225,8 @@ $totalRows_logout = mysql_num_rows($logout);
                             <td class="text-center"><strong>Rp. 10.000,- </strong> </td>
                         </tr>
 =======
+=======
+>>>>>>> faris
                             <th width="24%" class="text-center">ID Barang</th>
                             <th width="24%" class="text-center">Nama Barang</th>
                             <th width="15%" class="text-center">Jumlah Stock</th>
@@ -265,7 +268,10 @@ $totalRows_logout = mysql_num_rows($logout);
                     
 
 ?>
+<<<<<<< HEAD
 >>>>>>> maghrizaazzanna
+=======
+>>>>>>> faris
                     </tbody>
               </table>
             </div>
@@ -314,7 +320,10 @@ $totalRows_logout = mysql_num_rows($logout);
             new WOW().init();
         </script>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> faris
         <script src="js/notify.min.js"></script>
         <?php
             //include_once "koneksi.php";
@@ -349,7 +358,10 @@ $(document).ready(function() {
 });
 
 		</script>
+<<<<<<< HEAD
 >>>>>>> maghrizaazzanna
+=======
+>>>>>>> faris
     </body>
 </html>
 <?php
