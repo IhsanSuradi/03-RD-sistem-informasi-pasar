@@ -1,5 +1,4 @@
 <?php
-include "getedit_barang.php";
 @ob_start();
 session_start();
 ?>
@@ -53,25 +52,20 @@ session_start();
     <div class="row">
     <div class="col-md-8 col-md-offset-1">
 	  <?php
-		if (isset($_GET["edit"])){
+		if (isset($_GET["add"])){
 			echo "<script>";
-			echo "alert('Barang berhasil diubah!')";
+			echo "alert('Barang berhasil ditambahkan!');";
 			echo "</script>";
 		}
 	  ?>
-      <form method="POST" action="doedit_barang.php" name="tambahbarang">
-<<<<<<< HEAD
-        <input type="hidden" name="idlist" value="1">
-		<input type="hidden" name="origin" value="editbarang.php?edit=1">
-=======
-        <input type="hidden" name="idlist" value="<?php print $id_list; ?>">
-		<input type="hidden" name="origin" value="editbarang.php?id=<?php print $id_list; ?>&edit=1">
->>>>>>> maghrizaazzanna
+      <form method="POST" action="doadd_barang.php" name="tambahbarang">
+        <input type="hidden" name="id" value="1">
+		<input type="hidden" name="origin" value="addbarang.php?add=1">
 		<table width="638" align="center">
 		  <div class="col-sm-4">
           <tr valign="baseline">
             <td><p>
-              <input type="text" name="namabarang" value="<?php print $nama_barang; ?>" size="32" placeholder="Nama Barang" class="form-control">
+              <input type="text" name="nama_barang" value="" size="32" placeholder="Nama Barang" class="form-control">
             </p>
             </td>
           </tr>
@@ -79,7 +73,7 @@ session_start();
 		  <div class="col-sm-4">
           <tr valign="baseline">
             <td><p>
-              <input type="text" name="jumlahstock" value="<?php print $jumlah_barang; ?>" size="32" placeholder="Jumlah Stock (KG)" class="form-control">
+              <input type="text" name="jumlahstock" value="" size="32" placeholder="Jumlah Stock (KG)" class="form-control">
             </p>
              </td>
           </tr>
@@ -87,7 +81,7 @@ session_start();
 		  <div class="col-sm-4">
           <tr valign="baseline">
             <td><p>
-              <input type="text" name="hargabarang" value="<?php print $harga_barang; ?>" size="32" placeholder="Harga Barang ( Per Kg )" class="form-control">
+              <input type="text" name="hargabarang" value="" size="32" placeholder="Harga Barang ( Per Kg )" class="form-control">
             </p>
             </td>
           </tr>

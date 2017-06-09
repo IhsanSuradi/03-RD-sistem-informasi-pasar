@@ -171,6 +171,7 @@ $totalRows_logout = mysql_num_rows($logout);
                 <table width="78%" class="table table-bg table-bordered">
                     <thead>
                         <tr>
+<<<<<<< HEAD
                             <th width="24%" class="text-center">Nama Barang</th>
                             <th width="15%" class="text-center">Jumlah Stock</th>
                             <th width="37%" class="text-center">Harga Barang</th>
@@ -222,6 +223,49 @@ $totalRows_logout = mysql_num_rows($logout);
                             <td class="text-center"><strong>2 Kg </strong></td>
                             <td class="text-center"><strong>Rp. 10.000,- </strong> </td>
                         </tr>
+=======
+                            <th width="24%" class="text-center">ID Barang</th>
+                            <th width="24%" class="text-center">Nama Barang</th>
+                            <th width="15%" class="text-center">Jumlah Stock</th>
+                            <th width="37%" class="text-center">Harga Barang</th>
+                            <th width="8%" class="text-center">EDIT</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+					<?php
+
+                    include "koneksi.php";
+
+                    $mid = $_SESSION['MM_Username'];
+                    $list_result = mysqli_query($dbconn, "SELECT * FROM list_barang join toko on list_barang.id_toko=toko.id join barang on barang.id_barang=list_barang.id_barang WHERE username='$mid'");
+
+                        while ($row_list = mysqli_fetch_assoc($list_result)){
+                            $id_barang = $row_list['id_barang'];
+                            $harga = $row_list['harga'];
+                            $banyak = $row_list['banyak'];
+                            $barang_result = mysqli_query($dbconn, "SELECT nama FROM barang WHERE id_barang=$id_barang;");
+                            if (mysqli_num_rows($barang_result) > 0){
+                                $row_barang = mysqli_fetch_assoc($barang_result);
+                                $nama = $row_barang['nama'];
+                            }
+                            else {
+                                $nama = '<Unknown>';
+                            }
+                            
+                            echo "<tr>";
+                            echo "<form action=\"editlist.php\" method=\"post\">";
+                            echo "<td><input name=\"id_barang\" type=\"hidden\" value=\"$id_barang\">$id_barang</td>";
+                            echo "<td><input name=\"nama\" type=\"hidden\" value=\"$nama\">$nama</td>";
+                            echo "<td><input name=\"n\" type=\"hidden\" value=\"$banyak\">$banyak Kg</td>";
+                            echo "<td><input name=\"nama\" type=\"hidden\" value=\"$harga\">Rp. $harga,-</td>";
+                            echo "<td><button type=\"submit\" class=\"btn btn-warning\" style=\"border-radius:0;\" data-toggle=\"modal\"><i class=\"fa  fa-pencil-square-o\" style=\"font-size:18px; color:white;\"></i>  HAPUS</button>";
+                            echo "</form";
+                            echo "</tr>";
+                        }
+                    
+
+?>
+>>>>>>> maghrizaazzanna
                     </tbody>
               </table>
             </div>
@@ -269,6 +313,43 @@ $totalRows_logout = mysql_num_rows($logout);
         <script>
             new WOW().init();
         </script>
+<<<<<<< HEAD
+=======
+        <script src="js/notify.min.js"></script>
+        <?php
+            //include_once "koneksi.php";
+            $idtoko = 0;
+            $uname = $_SESSION['MM_Username'];
+            mysql_select_db($database_sip, $sip);
+            $res = mysql_query("SELECT id FROM toko WHERE username='$uname';", $sip);
+            if (mysql_num_rows($res) > 0){
+                $row_id = mysql_fetch_assoc($res);
+                $idtoko = $row_id['id'];
+            }
+            //echo "<script>$.notify(\"$uname\", \"info\");</script>";
+        ?>
+        
+		<script>
+function executeQuery() {
+  $.ajax({
+    url: 'notify.php?idtoko=<?php print $idtoko; ?>',
+    success: function(data) {
+      var parsed = JSON.parse(data);
+	  for (var i=0; i<parsed.length; i++){
+		  $.notify("Seseorang akan membeli " + parsed[i]['nama'] + " di toko anda!", "info");
+	  }
+    }
+  });
+  setTimeout(executeQuery, 3000); // you could choose not to continue on failure...
+}
+
+$(document).ready(function() {
+  // run the first time; all subsequent calls will take care of themselves
+  setTimeout(executeQuery, 3000);
+});
+
+		</script>
+>>>>>>> maghrizaazzanna
     </body>
 </html>
 <?php
