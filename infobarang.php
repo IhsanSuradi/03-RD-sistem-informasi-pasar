@@ -44,7 +44,12 @@
             <div class="overlay">
                 <div class="container">
                     <div class="col-md-10 col-md-offset-1 text-center">
-
+					<div class="head-btn wow fadeInLeft">
+                                  <p>&nbsp;</p>
+								  <div align="left"><a href="index.php" class="btn-default"><<< HOME</a>
+                                    
+                                  </div>
+							</div>
                         <!-- /.logo -->
                         <div class="logo wow fadeInDown"> <a href=""><img src="images/logo.png" alt="logo" width="320" height="259"></a> 
 							<form action="infobarang.php" method="get">
@@ -145,12 +150,9 @@
                         </tr>-->
                     </tbody>
               </table>
+			  <p align="center"><a href="keranjang.php" class="btn-default">Keranjang</a> </p>
             </div>
-            <form align="center" name="form1" method="post" action="">
-              <label>
-                <input  type="submit" name="Submit" value="Keranjang">
-              </label>
-            </form>
+            
         </div>
 
         

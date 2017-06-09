@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password= "";
-$dbname = "rpl";
+$dbname = "sip";
 
 //buat koneksi
 $dbconn = new mysqli($servername, $username, $password, $dbname);
